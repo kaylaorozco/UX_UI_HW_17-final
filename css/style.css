@@ -1,8 +1,3 @@
-body {
-    margin: 0;
-    background-color: #000;
-    z-index: 1;
-}
 
 @font-face {
   font-family: 'Milkstore01';
@@ -15,6 +10,12 @@ body {
   src: url(../fonts/Milkstore02-Clean.ttf);
   font-style: normal;
   font-weight: normal;
+}
+
+body {
+  margin: 0;
+  background-color: #000;
+  z-index: 1;
 }
 
 h1 {
