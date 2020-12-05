@@ -152,6 +152,7 @@ p {
     font-family: 'Milkstore02';
     font-size: 16px;
     transition: all ease 0.5s;
+    letter-spacing: 2px;
 }
 .hero-button:hover {
     background-color: #D1A16c;
@@ -217,15 +218,13 @@ p {
 
 .contact-info{
   display: flex;
-  width: 100%;
-  max-width: 1200px;
+  width: 1920x;
   height: 250px;
   align-items: center;
   justify-content: center;
   padding: 0 20px;
   background-color: #262626;
 }
-
 
 .card{
   background: #000000;
